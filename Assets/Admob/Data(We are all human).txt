@@ -1,0 +1,6 @@
+Admob Android:
+App_ID:
+ca-app-pub-4418606480632065~7319285269
+
+Video_ID:
+ca-app-pub-4418606480632065/3380040250

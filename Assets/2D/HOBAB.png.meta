@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: 2579e310404975b49af975781d04effa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7563507222798297887
+    second: HOBAB_0
+  - first:
+      213: 3372743714714807870
+    second: HOBAB_1
+  - first:
+      213: 8057289322118542632
+    second: HOBAB_2
+  - first:
+      213: -390372886281863594
+    second: HOBAB_3
+  - first:
+      213: 3123326924666799116
+    second: HOBAB_4
+  - first:
+      213: -1597794556813440792
+    second: HOBAB_5
+  - first:
+      213: -6805429822335655448
+    second: HOBAB_6
+  - first:
+      213: 7212598094510783943
+    second: HOBAB_7
+  - first:
+      213: -8522972583077911112
+    second: HOBAB_8
+  - first:
+      213: 81780252550634782
+    second: HOBAB_9
+  - first:
+      213: -9131718962288652379
+    second: HOBAB_10
+  - first:
+      213: 6687532737643564058
+    second: HOBAB_11
+  - first:
+      213: -4536190460580609298
+    second: HOBAB_12
+  - first:
+      213: -6940826335500219305
+    second: HOBAB_13
+  - first:
+      213: 2914681826323599951
+    second: HOBAB_14
+  - first:
+      213: -4695229359495115298
+    second: HOBAB_15
+  - first:
+      213: 7581721997959749994
+    second: HOBAB_16
+  - first:
+      213: -6482501559272466257
+    second: HOBAB_17
+  - first:
+      213: -6370662407084682897
+    second: HOBAB_18
+  - first:
+      213: 8793744672658542567
+    second: HOBAB_19
+  - first:
+      213: 8420232350242213660
+    second: HOBAB_20
+  - first:
+      213: 2003508524110489242
+    second: HOBAB_21
+  - first:
+      213: 8221689861671915429
+    second: HOBAB_22
+  - first:
+      213: -8798998769690243931
+    second: HOBAB_23
+  - first:
+      213: 6945843721086363629
+    second: HOBAB_24
+  - first:
+      213: -4253218972187848355
+    second: HOBAB_25
+  - first:
+      213: -956052449913205976
+    second: HOBAB_26
+  - first:
+      213: 4299960383219318648
+    second: HOBAB_27
+  - first:
+      213: 8444744253954031189
+    second: HOBAB_28
+  - first:
+      213: 6913909160222912257
+    second: HOBAB_29
+  - first:
+      213: -7538135792769093307
+    second: HOBAB_30
+  - first:
+      213: 6493323947506398727
+    second: HOBAB_31
+  - first:
+      213: -4579354770780549541
+    second: HOBAB_32
+  - first:
+      213: -3352961411207332791
+    second: HOBAB_33
+  - first:
+      213: -4324819721389203649
+    second: HOBAB_34
+  - first:
+      213: -8599747809770341475
+    second: HOBAB_35
+  - first:
+      213: -2564458760747960612
+    second: HOBAB_36
+  - first:
+      213: 6547241826801139229
+    second: HOBAB_37
+  - first:
+      213: 4855442744106617461
+    second: HOBAB_38
+  - first:
+      213: -123783248267124609
+    second: HOBAB_39
+  - first:
+      213: 7181855690139670927
+    second: HOBAB_40
+  - first:
+      213: 3438699502141755016
+    second: HOBAB_41
+  - first:
+      213: 3803812602795054463
+    second: HOBAB_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HOBAB_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1006
+        width: 942
+        height: 1005
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b6ef6feb9f6f860800000000000000
+      internalID: 7563507222798297887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HOBAB_1
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1006
+        width: 939
+        height: 1005
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ee10af9846ece20800000000000000
+      internalID: 3372743714714807870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HOBAB_2
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1006
+        width: 953
+        height: 1005
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8257c69f2fd31df60800000000000000
+      internalID: 8057289322118542632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HOBAB_3
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1002
+        width: 961
+        height: 1006
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eb93f9ded159af0800000000000000
+      internalID: -390372886281863594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HOBAB_4
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 1006
+        width: 796
+        height: 1005
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c048d263a49485b20800000000000000
+      internalID: 3123326924666799116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HOBAB_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 934
+        height: 1006
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e80519e05e73d9e0800000000000000
+      internalID: -1597794556813440792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HOBAB_6
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 945
+        height: 1006
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e165df12a14e81a0800000000000000
+      internalID: -6805429822335655448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HOBAB_7
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 0
+        width: 831
+        height: 1006
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd79f2c0cb481460800000000000000
+      internalID: 7212598094510783943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HOBAB_8
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 0
+        width: 1085
+        height: 1006
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b56f33a79158b980800000000000000
+      internalID: -8522972583077911112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HOBAB_9
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 0
+        width: 799
+        height: 1006
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d1ce6d4ba822100800000000000000
+      internalID: 81780252550634782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HOBAB_4: 3123326924666799116
+      HOBAB_7: 7212598094510783943
+      HOBAB_3: -390372886281863594
+      HOBAB_1: 3372743714714807870
+      HOBAB_8: -8522972583077911112
+      HOBAB_0: 7563507222798297887
+      HOBAB_5: -1597794556813440792
+      HOBAB_2: 8057289322118542632
+      HOBAB_9: 81780252550634782
+      HOBAB_6: -6805429822335655448
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
